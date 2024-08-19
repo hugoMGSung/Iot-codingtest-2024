@@ -52,10 +52,7 @@ IoT 개발자 알고리즘고급(코딩테스트 ) 학습리포지토리
 
 ## 3일차
 - 코딩테스트 학습
-    - [ ] [DFS]()
-    - [ ] [BFS]()
-    - [ ] [DP]()
-    - [ ] [Graph]()
+    - [x] [DFS/BFS](https://github.com/hugoMGSung/Iot-codingtest-2024/blob/main/day3/ct004_dfs_bfs.ipynb)
 
 ## 4일차
 
